@@ -54,6 +54,7 @@ header a {
 }
 
 header a:hover {
+	transition: all 0.5s ease;
 	color: rgb(111,127,122);
 }
 
@@ -67,6 +68,7 @@ header a:hover {
 }
 
 #featured a:hover {
+	transition: all 0.5s ease;
 	text-decoration: underline;
 }
 
@@ -80,6 +82,7 @@ header a:hover {
 }
 
 #press img:hover {
+	transition: all 0.5s ease;
 	border: 5px rgb(111,127,122) solid;
 }
 
